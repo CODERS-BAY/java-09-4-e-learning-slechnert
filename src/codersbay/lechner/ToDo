@@ -1,0 +1,23 @@
+Assignment a1l11 = new Assignment("How to sleep properly", 100d);
+        Assignment a1l12 = new Assignment("How to sleep properly", 100d);
+
+        Assignment a2l11 = new Assignment("When to sleep properly", 100d);
+        Assignment a2l12 = new Assignment("When to sleep properly", 100d);
+
+        Assignment a3l21 = new Assignment("How not to work properly", 99d);
+        Assignment a3l22 = new Assignment("How not to work properly", 99d);
+
+        Assignment a4l21 = new Assignment("What to do instead of working", 10d);
+        Assignment a4l22 = new Assignment("What to do instead of working", 10d);
+
+        Assignment a5l31 = new Assignment("How to cook balanced", 55d);
+        Assignment a5l32 = new Assignment("How to cook balanced", 55d);
+
+        Assignment a6l31 = new Assignment("How to hunt, Now and Then", 7000d);
+        Assignment a6l32 = new Assignment("How to hunt, Now and Then", 7000d);
+
+        Assignment a7l41 = new Assignment("Bäääh means Bäääh, fundamental social sexual constructs",44d);
+        Assignment a7l42 = new Assignment("Bäääh means Bäääh, fundamental social sexual constructs",44d);
+
+        Assignment a8l41 = new Assignment("Why you suck at sucking", 40d);
+        Assignment a8l42 = new Assignment("Why you suck at sucking", 40d);
